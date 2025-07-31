@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Strategy & Plan of Action – CSIA 485 Capstone
+# 🛡️ Cybersecurity Strategy & Plan of Action – CSIA 485 Capstone (Project 1)
 
 This repository contains my final project for **CSIA 485: Cybersecurity Management and Policy Capstone** at the University of Maryland Global Campus. The project presents a comprehensive cybersecurity strategy and implementation plan developed for the fictional acquisition of Island Banking Services by Padgett-Beale, Inc.
 
