@@ -8,7 +8,8 @@ Padgett-Beale acquired the digital assets of a bankrupt foreign financial firm, 
 
 ## 🔍 Deliverables
 
-- `Project_1_Cybersecurity_Strategy_and_Action_Plan.pdf`: Full report with:
+- [Cyber Security Plan of Action.pdf](https://github.com/user-attachments/files/21533071/Cyber.Security.Plan.of.Action.pdf)
+Full report with:
   - **Gap Analysis** of inherited cybersecurity weaknesses
   - **Legal and Regulatory Requirements Analysis** (GLBA, SOX, BSA, etc.)
   - **Risk Register** with 10+ mapped risks using NIST CSF and SP 800-53
@@ -32,6 +33,7 @@ Padgett-Beale acquired the digital assets of a bankrupt foreign financial firm, 
 
 5. **Modernize Infrastructure & Secure Network Architecture**  
    Patch legacy systems, encrypt sensitive data, and implement segmented networks.
+
 
 ## 🗂️ Supporting Frameworks & Standards
 
